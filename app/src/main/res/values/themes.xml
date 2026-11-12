@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base del sistema (sin librerías extra). Compose dibuja el resto. -->
+    <style name="Theme.Jarvis" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#05080F</item>
+        <item name="android:statusBarColor">#05080F</item>
+        <item name="android:navigationBarColor">#05080F</item>
+    </style>
+</resources>
